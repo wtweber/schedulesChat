@@ -1,0 +1,6254 @@
+[
+  {
+    "types": 3,
+    "manufacturer_code": "ZIVKO"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "YEOMAN"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "YALO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "YAKOVLEV AIRCRAFT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "YAKIMA AEROSPORT"
+  },
+  {
+    "types": 12,
+    "manufacturer_code": "XIAN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "WZL 3"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "WÜST"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "WUHAN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "WOODS"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "WORLD AIRCRAFT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "WHATLEY"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "WITTMAN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AMERICAN EAGLE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "GLASS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "WINNER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "WINDECKER"
+  },
+  {
+    "types": 28,
+    "manufacturer_code": "WESTLAND"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AVIPRO"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "WESTERN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "WENDT"
+  },
+  {
+    "types": 44,
+    "manufacturer_code": "AUSTER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "UNIS"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "WEATHERLY"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "REDA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "WILDEN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "WATSON"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "WARNER (1)"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "WAGAERO"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "WACO OHIO"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "MEYERS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "WACO CLASSIC"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "VULTEE"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "STODDARD-HAMILTON"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "VTOL AIRCRAFT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "VSR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "BILLIE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "VOLANTE"
+  },
+  {
+    "types": 43,
+    "manufacturer_code": "AIRBUS HELICOPTERS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ACES HIGH"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "VOLAIRCRAFT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SICHUAN LANTIAN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "VISIONAIRE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "VIPER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "NEXT AIRCRAFT"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "VIKING (1)"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "VICTA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AMBROSINI"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "VICKERS"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "ST. CROIX"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "VERILITE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "EMIVEST"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "VENTURE"
+  },
+  {
+    "types": 19,
+    "manufacturer_code": "SCALED"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "VAT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "GROVER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "VARGA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "VALTION"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "AKAFLIEG MUNCHEN"
+  },
+  {
+    "types": 17,
+    "manufacturer_code": "VALMET"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "UTVA"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "RUAG"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "UNITED CANADA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "UNIKOMTRANSO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "TEAM ROCKET"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "UMBAUGH"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "ULTRALEICHTBAU"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "K & S"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ULTRAVIA"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "ULTIMATE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "UL-JIH"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "PACIFIC AIRMOTIVE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "UFO"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TWI"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "TUSCO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "VEB"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "UDET"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "JUNKERS PROFLY"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TURBINE CUBS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TRIDENT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TRIDAIR"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TRECKER"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "TRANSAVIA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "TRANSALL"
+  },
+  {
+    "types": 41,
+    "manufacturer_code": "ZLIN"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "TANEJA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LAMBACH"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "TOYOTA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BROOKLANDS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "TM AIRCRAFT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TIGER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TMM-AVIA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "THATCHER"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "TEXAS SPORT"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "AGRO-COPTEROS"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "TEXAS AIRPLANE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PHENIX"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "SONEX"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TEST"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "TENNESSEE VALLEY"
+  },
+  {
+    "types": 96,
+    "manufacturer_code": "GRUMMAN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "KIMBREL"
+  },
+  {
+    "types": 23,
+    "manufacturer_code": "TECNAM"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "OSKBES-MAI"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TECHNOFLUG"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TEAM TANGO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "328 SUPPORT SERVICES"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TBM"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "STORMAIRCRAFT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MEYER"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "TAYLOR-YOUNG"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "TAYLOR (2)"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "TAYLOR (1)"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "GARLAND"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TAMARIND"
+  },
+  {
+    "types": 13,
+    "manufacturer_code": "TAI"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "T & T AVIATION"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "OMNI"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "SZD"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SYMPHONY"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "IDEA"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "SUPERMARINE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SUPER-CHIPMUNK"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "LEAR JET"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SUPAPUP"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "REVOLUTION"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SUNDERLAND"
+  },
+  {
+    "types": 30,
+    "manufacturer_code": "SUKHOI"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SUDFLUG"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "ANGLIN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "STROJNIK"
+  },
+  {
+    "types": 11,
+    "manufacturer_code": "AEROSTAR (2)"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "STORCH AVIATION"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "FEUGRAY"
+  },
+  {
+    "types": 23,
+    "manufacturer_code": "STINSON"
+  },
+  {
+    "types": 27,
+    "manufacturer_code": "YAKOVLEV"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "STEWART (2)"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "STEWART (1)"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "STERN"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "STEMME"
+  },
+  {
+    "types": 13,
+    "manufacturer_code": "STEARMAN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TAPANEE"
+  },
+  {
+    "types": 90,
+    "manufacturer_code": "DOUGLAS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "REPLICA PLANS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "STAUDACHER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FAMA"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "AI(R)"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "STATUS AVIA"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "CHASLE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "STATLER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SISLER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "STARPAC"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "PLAN"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "STITS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "STARFIRE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "RAVIN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ST. JUST"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "STREAMLINE WELDING"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SSH"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SREYA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "UNITED CONSULTANT"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "SPORTINE AVIACIJA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AVIATION FARM"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "LONGREN"
+  },
+  {
+    "types": 10,
+    "manufacturer_code": "SPORTAVIA-PUTZER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SPORT RACER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SPEZIO"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SPECTRUM"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SONACA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SOLAR IMPULSE"
+  },
+  {
+    "types": 25,
+    "manufacturer_code": "SOKO"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SOCA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CLAASSEN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SNOW"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SNOBIRD"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "STERN-MALLICK"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SMITH (3)"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SMITH (2)"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SMITH (1)"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "SME"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ANDREASSON"
+  },
+  {
+    "types": 16,
+    "manufacturer_code": "REARWIN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SMAN"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "SLIPSTREAM"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "WAR"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "SLINGSBY"
+  },
+  {
+    "types": 11,
+    "manufacturer_code": "PIPISTREL"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SKYWOOD"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SKYETON"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SIRAVIA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "M & D FLUGZEUGBAU"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SINO SWEARINGEN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SILENCE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SIAT"
+  },
+  {
+    "types": 18,
+    "manufacturer_code": "HILLER"
+  },
+  {
+    "types": 37,
+    "manufacturer_code": "HINDUSTAN"
+  },
+  {
+    "types": 24,
+    "manufacturer_code": "SIAI-MARCHETTI"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SARGENT-FLETCHER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SHUYA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SHINN"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "SHINMAYWA"
+  },
+  {
+    "types": 17,
+    "manufacturer_code": "KOREA AEROSPACE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SHIN MEIWA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "TURNER"
+  },
+  {
+    "types": 13,
+    "manufacturer_code": "FAIRCHILD SWEARINGEN"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "SHANGHAI SIKORSKY"
+  },
+  {
+    "types": 12,
+    "manufacturer_code": "CURTISS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SHAANXI"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "SGAU"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PARAMOUNT "
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "SG AVIATION"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "IRKUT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SEPECAT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SEGUIN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BUHL"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SEAWIND"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SEAFLIGHT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "OPTICA"
+  },
+  {
+    "types": 22,
+    "manufacturer_code": "SCHLEICHER"
+  },
+  {
+    "types": 20,
+    "manufacturer_code": "SCHEIBE"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "SCHAFER"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "REMOS"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "SCENIC"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SCANOR"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "EURO-ENAER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SAUSER"
+  },
+  {
+    "types": 41,
+    "manufacturer_code": "PIEL"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "SAUPER"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "SATIC"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "RAJ HAMSA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AERORIC"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SAMSUNG"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "LIPNUR"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SAI (2)"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "TERRAFUGIA"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "SAI (1)"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FRY"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SAFRAN"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "SAFAT"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "SADLER"
+  },
+  {
+    "types": 39,
+    "manufacturer_code": "SAAB"
+  },
+  {
+    "types": 26,
+    "manufacturer_code": "RUTAN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "VIDOR"
+  },
+  {
+    "types": 11,
+    "manufacturer_code": "F+W EMMEN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "STEEN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TRADEWIND TURBINES"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "RUSCHMEYER"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "RTAF"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ROUCHAUD"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AEROSTYLE"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "ROTORWAY"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "BOLKOW"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ROTORSMART"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ROTARY AIR FORCE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "CANADIAN HOME ROTORS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "FLAGLOR"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "PHILLIPS"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "ROMAERO"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "ROLLASON"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "ROLAND"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MCCARLEY"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "ROKO AERO"
+  },
+  {
+    "types": 11,
+    "manufacturer_code": "DYN'AERO"
+  },
+  {
+    "types": 44,
+    "manufacturer_code": "ROCKWELL"
+  },
+  {
+    "types": 73,
+    "manufacturer_code": "ROBIN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "VALLADEAU"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "RIMOWA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FOLLAND"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "RIHN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "RHEIN-WEST-FLUG"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "RHEIN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "REINER STEMME"
+  },
+  {
+    "types": 20,
+    "manufacturer_code": "FMA"
+  },
+  {
+    "types": 156,
+    "manufacturer_code": "LOCKHEED"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ROUSSEAU"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "RAND"
+  },
+  {
+    "types": 27,
+    "manufacturer_code": "AERO COMMANDER"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "LMAASA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "RAINBOW SKYREACH"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "VELOCITY"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "RAINBOW"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "RAGWING"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "RADAB"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "RACA"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "R & B"
+  },
+  {
+    "types": 16,
+    "manufacturer_code": "ZENITH"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "HELIPRO"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "QUESTAIR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "QUEST"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "QINGDAO"
+  },
+  {
+    "types": 30,
+    "manufacturer_code": "PZL-SWIDNIK"
+  },
+  {
+    "types": 44,
+    "manufacturer_code": "PZL-OKECIE"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "PROTECH"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "PROMAVIA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PROGRESSIVE AERODYNE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "OPTION AIR"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "PROFESSIONAL AVIATION"
+  },
+  {
+    "types": 36,
+    "manufacturer_code": "GULFSTREAM AMERICAN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "PRO-COMPOSITES"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "PRIVATE EXPLORER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PRESTIGE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "CHALARD"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SIVEL"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "POWELL"
+  },
+  {
+    "types": 19,
+    "manufacturer_code": "POTTIER"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "POTEZ"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "PORTERFIELD"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SILHOUETTE"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "PODESVA"
+  },
+  {
+    "types": 10,
+    "manufacturer_code": "PITTS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PITCAIRN-CIERVA"
+  },
+  {
+    "types": 26,
+    "manufacturer_code": "PILATUS"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "ROTORSPORT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SUPERMARINE AIRCRAFT"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "FOCKE-WULF"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "PHOENIX-AVIACOR"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "MARSH"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "PHOENIX AIR"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "PHOENIX (1)"
+  },
+  {
+    "types": 28,
+    "manufacturer_code": "HUGHES"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "HILLBERG"
+  },
+  {
+    "types": 10,
+    "manufacturer_code": "PHILLIPS & POWIS"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "PETERSON"
+  },
+  {
+    "types": 17,
+    "manufacturer_code": "PERCIVAL"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "HAWKER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PENNEC-LUCAS"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "COUPE"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "SCINTEX"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "CAP AVIATION"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "PENA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TOMARK"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "COMAC"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "FORD"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PELEGRIN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PCV"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "PATRIA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PAXMAN'S"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "PASOTTI"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "PARTENAIR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PARNALL"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PAPA 51"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PANAVIA"
+  },
+  {
+    "types": 11,
+    "manufacturer_code": "MURPHY"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "PAKISTAN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "NIEUPORT"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "NOSTALGAIR"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "PAI"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "CORBY"
+  },
+  {
+    "types": 18,
+    "manufacturer_code": "WASSMER"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "PADC"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "BUCKER PRADO"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "PACIFIC AEROSPACE"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "PACAERO"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "OSPREY"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "ORLICAN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "UMBRA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ON MARK"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "OMNI-WELD"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "OMF"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "OMAC"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "OMA SUD"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "OLYMPIC ULTRALIGHTS"
+  },
+  {
+    "types": 10,
+    "manufacturer_code": "NUSANTARA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "MARCO"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "NURTANIO"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AERO JAEN"
+  },
+  {
+    "types": 21,
+    "manufacturer_code": "NORTHROP"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "MAVERICK"
+  },
+  {
+    "types": 48,
+    "manufacturer_code": "NORTH AMERICAN"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "NORMAN"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "NOORDUYN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "NITSCHE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "NICOLLIER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "NEW ZEALAND"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "NEW GLASAIR"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "SOLOY"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "NEW GLASTAR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "NESMITH"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "FREEDOM"
+  },
+  {
+    "types": 41,
+    "manufacturer_code": "NEIVA"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "DE SCHELDE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "VALENTIN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "NAVION"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SANDS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AJEP"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "NAVAL AIRCRAFT FACTORY"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "WOLFSBERG"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "FAIREY"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "SF"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "KLS COMPOSITES"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "NANJING"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AVION"
+  },
+  {
+    "types": 12,
+    "manufacturer_code": "NANCHANG"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "NAL"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "NABERN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MYSKY"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "AMERICAN LEGEND"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "MYLIUS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SKYGEAR"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "SABCA"
+  },
+  {
+    "types": 16,
+    "manufacturer_code": "MYASISHCHEV"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "MURRAYAIR"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "GYROFLUG"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "MSW"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "MRAZ"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "MORRISEY"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "DISCOVERY"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "GIPPSAERO"
+  },
+  {
+    "types": 68,
+    "manufacturer_code": "MOONEY"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "PIASECKI"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CHRIS TENA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MONTANA"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "SPARTAN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MONTAGNE"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "VERHEES"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "SKYSTAR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AVIAKIT"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "VANESSA AIR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "STEPHENS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MONTAER"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "MONOCOUPE"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "MONNETT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MONG"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MOLNIYA"
+  },
+  {
+    "types": 18,
+    "manufacturer_code": "PIAGGIO"
+  },
+  {
+    "types": 33,
+    "manufacturer_code": "MITSUBISHI"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PACI"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "MIRAGE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "WING"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "MILLICER"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "CORVUS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TEXAS AIRCRAFT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MILLER (2)"
+  },
+  {
+    "types": 23,
+    "manufacturer_code": "MIL"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MIGNET"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "SINGAPORE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MIDWEST AEROSPORT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "MID-CONTINENT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "TED SMITH"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MICROLEVE"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "METEOR"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "WHITE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AERFER-AERMACCHI"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SEASTAR"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "MERIDIONALI"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "NORMAND DUBE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MERCURY"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "MICCO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "FLETCHER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "MELBOURNE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "MDB"
+  },
+  {
+    "types": 14,
+    "manufacturer_code": "MD HELICOPTERS"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "MCKINNON"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SLEPCEV"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FIESELER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SCAN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SPECTER"
+  },
+  {
+    "types": 11,
+    "manufacturer_code": "MBB"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "MAX HOLSTE"
+  },
+  {
+    "types": 53,
+    "manufacturer_code": "MAULE"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "MARTIN"
+  },
+  {
+    "types": 53,
+    "manufacturer_code": "AGUSTA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MARSDEN"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "MARIE"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "CULP"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "VICKERS-SLINGSBY"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "TITAN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "NORTHWEST TURBINE"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "MALMO"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "MAGNUS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MAD MAX AERO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MACKEY"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BLERIOT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MACHEN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MACDONALD"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "MACCHI"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MACAIR"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "MAPO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LYAVIN"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "TRAVEL AIR"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "GROVE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "LUTON"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "FLAIR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "NUWACO"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "LUSCOMBE-SILVAIRE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "LUNDS TEKNISKE"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "EDRA"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "FISHER AERO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CARTER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "QUERCY"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BOWERS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LTV"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PUTZER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "LOVING-WAYNE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "HOVEY"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "SHENYANG SAILPLANE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "LOPRESTI"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "REDFERN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "LONG"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LOCKWOOD"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "LOCKHEED-AZCARATE"
+  },
+  {
+    "types": 34,
+    "manufacturer_code": "LOCKHEED MARTIN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LOAD RANGER"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "LITTLE WING"
+  },
+  {
+    "types": 11,
+    "manufacturer_code": "TEMCO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LIGHTNING BUG"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ULLMANN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "QUARTZ MOUNTAIN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LIGHT WING"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "LIGHT AERO"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "CUSTOM FLIGHT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LIBERTY (2)"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ODESSA"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "SHERPA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LIBERTY (1)"
+  },
+  {
+    "types": 58,
+    "manufacturer_code": "RAYTHEON"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "LH AVIATION"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MBB-KAWASAKI"
+  },
+  {
+    "types": 18,
+    "manufacturer_code": "LET"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "PEREIRA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "HALLEY"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PEGASE AERO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LEGEND FLYERS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LEGEND"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "LEDERLIN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "EAGLE AVIATION"
+  },
+  {
+    "types": 18,
+    "manufacturer_code": "LEARJET"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "SIPA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LEAR"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "LAVERDA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "NATIONAL STEEL"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "LAVEN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ASSO AEREI"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LASER"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "LANGE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "TRAGO MILLS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "WINDEXAIR"
+  },
+  {
+    "types": 16,
+    "manufacturer_code": "VULCANAIR"
+  },
+  {
+    "types": 100,
+    "manufacturer_code": "MCDONNELL DOUGLAS"
+  },
+  {
+    "types": 15,
+    "manufacturer_code": "LAKE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "WOLF"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ALANNE"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "MVEN"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "LAK"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "LAIRD"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LA FRANCE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "KUBICEK"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "VARDAX"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "DRIGGS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "KOVACS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "EPERVIER (1)"
+  },
+  {
+    "types": 14,
+    "manufacturer_code": "KOREAN AIR"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "TERZI"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "KOLB"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "KLN"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "KITPLANES FOR AFRICA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "KING'S"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MEAD"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "KINETIC"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "BAE SYSTEMS"
+  },
+  {
+    "types": 11,
+    "manufacturer_code": "THRUSH"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SHADIN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "KITFOX"
+  },
+  {
+    "types": 10,
+    "manufacturer_code": "KIMBALL"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "KILLINGSWORTH"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "KIEGER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "KESTREL (1)"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "KELOWNA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "FAJR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "KELLY"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "HELWAN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "UNC"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "KELEHER"
+  },
+  {
+    "types": 10,
+    "manufacturer_code": "AEROPRACT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MOURA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "KAZAN"
+  },
+  {
+    "types": 26,
+    "manufacturer_code": "KAWASAKI"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ACE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "KARI"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "KAPPA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CENTURY"
+  },
+  {
+    "types": 16,
+    "manufacturer_code": "TUPOLEV"
+  },
+  {
+    "types": 23,
+    "manufacturer_code": "KAMOV"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "MCDONNELL"
+  },
+  {
+    "types": 20,
+    "manufacturer_code": "KAMAN"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "KADER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SPORT COPTER"
+  },
+  {
+    "types": 31,
+    "manufacturer_code": "JURCA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "GARRISON"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "MELEX"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "JUNKERS"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "MESSERSCHMITT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "HELIVERT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "JONKER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "JIANGXI CHANGHE-AGUSTA"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "JETSTREAM"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "JETPROP"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "FANTASY AIR"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "JANOWSKI"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "JAMES"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ISRAVIATION"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "VERTOL"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "SOPWITH"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ISLAND AIRCRAFT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ZLIN AVIATION"
+  },
+  {
+    "types": 19,
+    "manufacturer_code": "AERO (2)"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "RUSSO"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ISAACS"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "IRIAF"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "AVIOANE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "IPT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "VOLMER"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "IPE"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "HALL"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PANZL"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ION"
+  },
+  {
+    "types": 15,
+    "manufacturer_code": "SWEARINGEN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SAASA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "INTRACOM"
+  },
+  {
+    "types": 14,
+    "manufacturer_code": "TAYLORCRAFT (2)"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "INTERSTATE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ORION"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AIAA"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "OLDFIELD"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "INTERPLANE"
+  },
+  {
+    "types": 11,
+    "manufacturer_code": "STOLP"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "INTERNATIONAL HELICOPTERS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "INTERAVIA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "BILSAM"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MAUPIN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "DASSAULT-DORNIER"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "INPAER"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "LAVIASA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "INNOVAVIATION"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "INDUS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "INDEPENDENT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "RLU"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "INDAER PERU"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "HALSTED"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "GENERAL MOTORS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "HARMON (2)"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "INDAER CHILE"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "IMP"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "ICP"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SHARK AIRCRAFT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "HIGHLANDER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ICON"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ADAMS"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "HANDLEY PAGE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "CFM"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "IAR"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "HUMBERT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AEROLITES"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AMC"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "GATARD"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "HOWARD (1)"
+  },
+  {
+    "types": 18,
+    "manufacturer_code": "COMMONWEALTH (1)"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "STAR-LITE"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "HUNTING PERCIVAL"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AVIATION ENTERPRISES"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SUD-EST"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SAU"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LSA AMERICA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AERO-ASTRA"
+  },
+  {
+    "types": 10,
+    "manufacturer_code": "HONGDU"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "HONDA-MISSISSIPPI"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "DOVA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CASSUTT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "HONDA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "HK"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SAINT GERMAIN"
+  },
+  {
+    "types": 18,
+    "manufacturer_code": "NORTHROP GRUMMAN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ABHCO"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "CAMERON"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "HISTORICAL AIRCRAFT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LEONARDO-FINMECCANICA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ABS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "NAMC"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "HIRTH"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "MORSE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FARIGOUX"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ALPLA"
+  },
+  {
+    "types": 24,
+    "manufacturer_code": "AERMACCHI"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "HELOWERKS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AIRO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "HELIOPOLIS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AEROJAMES"
+  },
+  {
+    "types": 20,
+    "manufacturer_code": "HELIO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "WET AERO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LOEHLE"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "HISPANO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "HEINKEL"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "HB-AIRCRAFT"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "THORP"
+  },
+  {
+    "types": 11,
+    "manufacturer_code": "MAGNI"
+  },
+  {
+    "types": 33,
+    "manufacturer_code": "HAWKER BEECHCRAFT"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "LANSHE"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "AIRTECH (2)"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "HATZ"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "VSTOL"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "HARMON (1)"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AERO GARE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "STARK-TREFETHEN"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "POLIKARPOV"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "GRIFFON AERO"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "HAPI"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "HAMILTON"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "GUIMBAL"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SYNAIRGIE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "JEFFAIR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "HONGDU MD HELICOPTERS"
+  },
+  {
+    "types": 26,
+    "manufacturer_code": "FUJI"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "HYNES"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "KEYSTONE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AERODIS"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "ECTOR"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "HOLLMANN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PAWNEE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CHILTON"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "HAINZ"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "HOLCOMB"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "HAGGLUND"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "USTINOV"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ROCK"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "OAKLAND"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AGROLOT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "KALINAUSKAS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AVIATION DEVELOPMENT"
+  },
+  {
+    "types": 30,
+    "manufacturer_code": "GRUMMAN AMERICAN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "GROPPO"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "GROEN"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "POTEZ AIR-FOUGA"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "DRUINE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "GENERAL AIRCRAFT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AEROPUP"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "EXCALIBUR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "DAC"
+  },
+  {
+    "types": 37,
+    "manufacturer_code": "GROB"
+  },
+  {
+    "types": 17,
+    "manufacturer_code": "HELIBRAS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "POBER"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "CAUDRON"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "NEW STANDARD"
+  },
+  {
+    "types": 42,
+    "manufacturer_code": "DE HAVILLAND"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "GRIFFON"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SWICK"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "CROSES"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SELEX ES"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "GREAT LAKES"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "GOLDEN CAR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LEZA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "GLOBE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ALLISON"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "GLOBAL"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "HPA (2)"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "GLASSIC"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "GLASAIR"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "GIPPSLAND"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "PROCAER"
+  },
+  {
+    "types": 16,
+    "manufacturer_code": "GENERAL AVIA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "DAVIS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "GAVILAN"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "GLASER-DIRKS"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "BHARAT"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "RENARD"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "EPERVIER (2)"
+  },
+  {
+    "types": 49,
+    "manufacturer_code": "CASA"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "BINDER (2)"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "GARDAN"
+  },
+  {
+    "types": 13,
+    "manufacturer_code": "GAF"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "FUNK"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "NORDFLUG"
+  },
+  {
+    "types": 26,
+    "manufacturer_code": "HAWKER SIDDELEY"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FREE SPIRIT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FOUR WINDS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "JAVELIN"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "FOUND"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "PILATUS BRITTEN-NORMAN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "GANZAVIA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "KANPUR"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "JUNQUA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AERO MERCANTIL"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FOUGA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ARROW (1)"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AIRCRAFT PARTS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FORNEY"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "ALPI"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "NANJING UNIVERSITY"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "XTREMEAIR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AIR PARTS"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "FFA"
+  },
+  {
+    "types": 25,
+    "manufacturer_code": "FOKKER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PARKER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "FLUG WERK"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "KOVACH-ELMENDORF"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FLYWHALE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FLYING MACHINES"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AVIASTROITEL"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "GANNET"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "DG FLUGZEUGBAU"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "FLITZER"
+  },
+  {
+    "types": 38,
+    "manufacturer_code": "DASSAULT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ENGLISH ELECTRIC"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "EKOLOT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "FLIGHTWORKS"
+  },
+  {
+    "types": 16,
+    "manufacturer_code": "AVIONS FAIREY"
+  },
+  {
+    "types": 10,
+    "manufacturer_code": "FLÄMING AIR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PRACTAVIA"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "G1 AVIATION"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SKYCRAFT"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "FISHER"
+  },
+  {
+    "types": 26,
+    "manufacturer_code": "HARBIN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AUSTFLIGHT"
+  },
+  {
+    "types": 19,
+    "manufacturer_code": "FINMECCANICA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FIKE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AMS-FLIGHT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "FIGHTER ESCORT WINGS"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "INTER-AIR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "FAIRTRAVEL"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "HIGHER CLASS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "DURAND"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FARNBOROUGH"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AEROTECH"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ISTRA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AQUILA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CAG"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AKAFLIEG KARLSRUHE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PRESCOTT"
+  },
+  {
+    "types": 12,
+    "manufacturer_code": "FALCONAR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AERO MIRAGE"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "DAEWOO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "RENAISSANCE (2)"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FALCOMPOSITE"
+  },
+  {
+    "types": 15,
+    "manufacturer_code": "FAIRCHILD HILLER"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "FAIRCHILD DORNIER"
+  },
+  {
+    "types": 51,
+    "manufacturer_code": "FAIRCHILD (1)"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "TAYLOR (3)"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "EXTRA"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "KHRUNICHEV"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "AEROTECHNIK"
+  },
+  {
+    "types": 15,
+    "manufacturer_code": "GATES LEARJET"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "WALLERKOWSKI"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "EXPLORER (1)"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "ARCTIC"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "EUROSPACE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "EXPERIMENTAL AVIATION"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "TIPSY"
+  },
+  {
+    "types": 44,
+    "manufacturer_code": "MORAVAN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "EXCEL-JET"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SAM AIRCRAFT"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "AVID"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AEROCAD"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "EVANGEL"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "EURO-FLY"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "AVEKO"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "LILIENTHAL"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "DENEL"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "EUROFIGHTER"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "AEROSTAR (1)"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "POLITECHNIKA WARSZAWSKA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BEST OFF"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AFIC"
+  },
+  {
+    "types": 10,
+    "manufacturer_code": "EUROCOPTER-KAWASAKI"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AEROALCOOL"
+  },
+  {
+    "types": 15,
+    "manufacturer_code": "LUSCOMBE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "EUROCOPTER-HARBIN"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "AEROANDINA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "GROSSO"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SMYTH"
+  },
+  {
+    "types": 73,
+    "manufacturer_code": "EUROCOPTER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "EUROALA"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "AOI"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "EURO PINGOUIN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "EUROPA"
+  },
+  {
+    "types": 15,
+    "manufacturer_code": "FLEET"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "AERO-DIFUSION"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "HYDROPLANE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ETA AIRCRAFT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "TERR-MAR"
+  },
+  {
+    "types": 30,
+    "manufacturer_code": "SCHEMPP-HIRTH"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "EAGLE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ETHIOPIAN AIRLINES"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "SOKO-CNIAR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ROCKET"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "EPIC AIRCRAFT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "CURTISS-ROBERTSON"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ACBA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "PLUMB"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "ENSTROM"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AEA"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "AUTOGYRO"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "KEUTHAN"
+  },
+  {
+    "types": 13,
+    "manufacturer_code": "TECHNOAVIA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AVTEK"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "FMP"
+  },
+  {
+    "types": 20,
+    "manufacturer_code": "ENAER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "JACKAROO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ARADO"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "EMROTH"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TAYLOR (4)"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "CONROY"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "EMAIR"
+  },
+  {
+    "types": 16,
+    "manufacturer_code": "MILES"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "ELBIT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ELA AVIACION"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SILVAIRE"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "MARANDA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "EIS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "A-41"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "REINSDORF"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "EIRI"
+  },
+  {
+    "types": 223,
+    "manufacturer_code": "PIPER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "EICH"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "PAYNE"
+  },
+  {
+    "types": 21,
+    "manufacturer_code": "GENERAL DYNAMICS"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "EVEKTOR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "REALITY"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FAIRCHILD (2)"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "STARK"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "ELMWOOD"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "ECLIPSE"
+  },
+  {
+    "types": 62,
+    "manufacturer_code": "GULFSTREAM AEROSPACE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "CRAIOVA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "EARLY BIRD"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "LORAVIA"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "EAA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "DICKEY"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "E-7 GROUP"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "DYKE"
+  },
+  {
+    "types": 15,
+    "manufacturer_code": "GENERAL ATOMICS"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "MARA WING"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SKYLINE"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "FRAKES"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "HESA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "DURUBLE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "GOBOSH"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "AEROVOLGA"
+  },
+  {
+    "types": 15,
+    "manufacturer_code": "BOEING VERTOL"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "DREAM"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FLSZ"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FLIGHT DESIGN"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "DOWNER"
+  },
+  {
+    "types": 145,
+    "manufacturer_code": "SIKORSKY"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AERO KUHLMANN"
+  },
+  {
+    "types": 28,
+    "manufacturer_code": "JODEL"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "IRGC"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "GÖTAVERKEN"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "SKYFOX"
+  },
+  {
+    "types": 12,
+    "manufacturer_code": "AERO (1)"
+  },
+  {
+    "types": 21,
+    "manufacturer_code": "SHENYANG"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FLYGFABRIKEN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AMERICAN GENERAL"
+  },
+  {
+    "types": 24,
+    "manufacturer_code": "COMP AIR"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "UETZ"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "JUST"
+  },
+  {
+    "types": 27,
+    "manufacturer_code": "DORNIER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "DM AEROSPACE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "VIKING (2)"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "MARQUART"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MAKELAN"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "DIRGANTARA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "DIRECT FLY"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "VOUGHT-SIKORSKY"
+  },
+  {
+    "types": 13,
+    "manufacturer_code": "DINFIA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AIRCONCEPT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "DIJKMAN-DULKES"
+  },
+  {
+    "types": 29,
+    "manufacturer_code": "SUD"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FIAT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "LANCASHIRE"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "PEREGRINE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ADVENTURE AIR"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "ALMS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CABLE-PRICE"
+  },
+  {
+    "types": 13,
+    "manufacturer_code": "BEDE"
+  },
+  {
+    "types": 207,
+    "manufacturer_code": "BOEING"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "IFB"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "DEWOITINE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "DESJARDINS"
+  },
+  {
+    "types": 13,
+    "manufacturer_code": "JIHLAVAN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "DERAZONA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "EGVOYAGER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SPRATT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AVCRAFT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "DENNEY"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "TAYLOR KITS"
+  },
+  {
+    "types": 44,
+    "manufacturer_code": "PZL-MIELEC"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CAMPANA"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "PARADISE"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "DENIZE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "EURONEF"
+  },
+  {
+    "types": 136,
+    "manufacturer_code": "EMBRAER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "DRAGON FLY"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "DELISLE"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "THUNDER WINGS"
+  },
+  {
+    "types": 13,
+    "manufacturer_code": "BEAGLE-AUSTER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ERCO"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "KREIDER-REISNER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "DEBORDE-ROLLAND"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SCWAL"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "IBIS (1)"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "REPUBLIC"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "DEAN-WILSON"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "EVANS"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "DE HAVILLAND AUSTRALIA"
+  },
+  {
+    "types": 17,
+    "manufacturer_code": "JABIRU"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "AMEUR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AIRCRAFT HYDRO-FORMING"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "DART"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "D'APUZZO"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "DAMOURE-FABRE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AVIADESIGN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SHARK AERO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ELLISON-MAHON"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "COUNTRY AIR"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "DAHER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TEXAS HELICOPTER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "EDGAR PERCIVAL"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SKYOTE AEROMARINE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SUMMIT"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "CUB CRAFTERS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "DYNALI"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "CUB"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "PULSAR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AERONIX"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CTRM"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ARDC"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ROLLADEN-SCHNEIDER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ADA"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "CSA"
+  },
+  {
+    "types": 35,
+    "manufacturer_code": "CONVAIR"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "CRANFIELD"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "AUSTRALIAN AEROSPACE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SPRING"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "CORBEN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "COOPAVIA-MENAVIA"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "NEXTANT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "NASH"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CONTINENTAL COPTERS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SINDLINGER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SALVAY-STARK"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "CONAIR"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "CAPELLA"
+  },
+  {
+    "types": 34,
+    "manufacturer_code": "AERONCA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BRADLEY"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FREEDOM MASTER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "LEAVENS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "COMMANDER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AVIATECH"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PHOENIX (2)"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AVIA (1)"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "AKROTECH EUROPE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "COLLINS"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "AERO (3)"
+  },
+  {
+    "types": 12,
+    "manufacturer_code": "COLEMILL"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "HUZHOU TAIXIANG"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "HELICOM"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "HAWKER DE HAVILLAND"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TURBINE DESIGN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "COBRA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "COMMONWEALTH (2)"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "COBELAVIA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "COBALT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "MXR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CLIFFORD AEROWORKS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "CLAUDIUS DORNIER"
+  },
+  {
+    "types": 15,
+    "manufacturer_code": "AIR TRACTOR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CLASSIC SPORT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BROKAW"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CLASSIC"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "NEMESIS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "DUBNA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "FLIGHT DESIGN-VESSEL"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AMERICAN HOMEBUILTS"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "ASTA"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "CLASS"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "GRYF"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "HFB"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ARROW (2)"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "HUREL-DUBOIS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AAC"
+  },
+  {
+    "types": 12,
+    "manufacturer_code": "ROBINSON"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LEZA-LOCKWOOD"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "AERITALIA"
+  },
+  {
+    "types": 12,
+    "manufacturer_code": "CIRRUS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "STARCK"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CIRCA"
+  },
+  {
+    "types": 11,
+    "manufacturer_code": "CONSOLIDATED"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "MONIOT"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "CICARE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "CAPRONI VIZZOLA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "LIGHT MINIATURE"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "AIR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CHICHESTER-MILES"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "BUCURESTI"
+  },
+  {
+    "types": 10,
+    "manufacturer_code": "VAN'S"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "IBIS (2)"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "CHANGHE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BEECH-SFERMA"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "CHAIKA"
+  },
+  {
+    "types": 28,
+    "manufacturer_code": "CENTRE EST"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "CEI"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "CEA"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "HB-FLUGTECHNIK"
+  },
+  {
+    "types": 17,
+    "manufacturer_code": "CHENGDU"
+  },
+  {
+    "types": 43,
+    "manufacturer_code": "IAI"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "IPAI"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "BLACKBURN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AIR-FOUGA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "IMCO"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FORNAIRE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "CAMAIR"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ALON"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "CALUMET"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BUTTERFLY"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "MESSERSCHMITT-BOLKOW"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "WHEELER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AMEAGLE"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "3XTRIM"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "BUSHBY"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "ERPALS"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "CANADIAN VICKERS"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "CVJETKOVIC"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "NEW HORIZONS"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "CHRISTEN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BEACHNER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "GOAIR"
+  },
+  {
+    "types": 16,
+    "manufacturer_code": "SAN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AEROTREK"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "LICHTWERK"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "BRUMBY"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BREDANARDI"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ANDERSON"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "STARKRAFT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AVIATION TRADERS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "BRANTLY-HYNES"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "III"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "QUIKKIT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SUD-OUEST"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BOT AIRCRAFT"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "QUICKIE"
+  },
+  {
+    "types": 32,
+    "manufacturer_code": "BOMBARDIER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SKYDANCER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "BOEVE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "EXPLORER (2)"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "GREAT PLAINS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "COMPOSIT AIRPLANES"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "NEICO"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "BLACKSHAPE"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "ACRO SPORT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "BERKUT"
+  },
+  {
+    "types": 17,
+    "manufacturer_code": "MIKOYAN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BENGIS"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "EXPRESS"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "LAMBERT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "JOHNSTON"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "BELL-BOEING"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "HOAC"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BELL-AGUSTA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LISUNOV"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "VITEK"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "GUERIN"
+  },
+  {
+    "types": 26,
+    "manufacturer_code": "CHAMPION"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "BEIJING KEYUAN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "HAT"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "GLOSTER"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "GRINVALDS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "BAYLES"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "FOURNIER"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "DALLACH"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PROGRESS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BEETS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "BAE SYSTEMS AUSTRALIA"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "SORRELL"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "CIAC"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "AIR-LIGHT"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "KLEMM"
+  },
+  {
+    "types": 52,
+    "manufacturer_code": "DE HAVILLAND CANADA"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "CAB"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "BRM AERO"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "BAC"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ISAE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ALPAERO"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "GOODYEAR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ONE PRO"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "AERO-EAST-EUROPE"
+  },
+  {
+    "types": 12,
+    "manufacturer_code": "RYAN"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "FLY SYNTHESIS"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "JORDAN AEROSPACE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ARC-41"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ALFA-M"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "COLOMBAN"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "AIR COMMAND"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "CALLAIR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "TAM"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "KAMINSKAS"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "AVICOPTER"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "BD-MICRO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "VASHON"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "BREEZER"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "ANTONIEWSKI"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "DALLAIR"
+  },
+  {
+    "types": 30,
+    "manufacturer_code": "MORANE-SAULNIER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "VFW"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "AIRCRAFT TECHNOLOGIES"
+  },
+  {
+    "types": 14,
+    "manufacturer_code": "ALENIA AERMACCHI"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AERO MOD"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "GM&T"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AVIATON"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "COLYAER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AVIOTECHNICA"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "IMPULSE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "COSY"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "AEROSPORT"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "CHANCE VOUGHT"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "AIRTECH (1)"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AVIATION SCOTLAND"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "PROWLER"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "AIRCRAFT DESIGNS"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "FFT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CRAE"
+  },
+  {
+    "types": 162,
+    "manufacturer_code": "BEECH"
+  },
+  {
+    "types": 37,
+    "manufacturer_code": "REIMS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ARC ATLANTIQUE"
+  },
+  {
+    "types": 86,
+    "manufacturer_code": "AIRBUS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AVIATIK-ALYANS"
+  },
+  {
+    "types": 10,
+    "manufacturer_code": "HOWARD HUGHES"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "GUIZHOU"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AKRON"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "B & F TECHNIK"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AVIAIMPEX"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ABS AEROLIGHT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AVIABELLANCA"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "BACKCOUNTRY"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "AEROPROGRESS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AIEP"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AVIA BALTIKA"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "HOFFMANN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "A2 CZ"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CHAYAIR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AVIA (3)"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "PETROLINI"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "AEROMOT"
+  },
+  {
+    "types": 73,
+    "manufacturer_code": "WACO"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "AVIOTECNICA"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "THK"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AEROTEK (1)"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "AESL"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "APPLEGATE & WEYANT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SPEEDTWIN"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "EAGLE AIRCRAFT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AEROSTRUCTURE"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "ROTEC"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AERO-JODEL"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "GALILEO"
+  },
+  {
+    "types": 17,
+    "manufacturer_code": "SHORT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BRANTLY"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "HUNTING"
+  },
+  {
+    "types": 11,
+    "manufacturer_code": "AVIAT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AEROMERE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "E & K"
+  },
+  {
+    "types": 76,
+    "manufacturer_code": "CANADAIR"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "SCOTTISH AVIATION"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "TIME WARP"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "COLUMBIA"
+  },
+  {
+    "types": 18,
+    "manufacturer_code": "RANS"
+  },
+  {
+    "types": 40,
+    "manufacturer_code": "BRITISH AEROSPACE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "EURODISPLAY"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "INNOVATION"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "S-WING"
+  },
+  {
+    "types": 20,
+    "manufacturer_code": "AYRES"
+  },
+  {
+    "types": 120,
+    "manufacturer_code": "BELL"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AUSTRALITE"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "AEROTEC (2)"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "FARRINGTON"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "FOXCON"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AKAFLIEG BERLIN"
+  },
+  {
+    "types": 17,
+    "manufacturer_code": "ATR"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "ELITAR"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "PIETENPOL"
+  },
+  {
+    "types": 16,
+    "manufacturer_code": "PARTENAVIA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AEROSPOOL"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "SPENCER"
+  },
+  {
+    "types": 44,
+    "manufacturer_code": "TAYLORCRAFT (1)"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AIRMASTER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TEAL"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ATG"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "NIPPER"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "AIRBUS HELICOPTERS-HARBIN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PARAVAR PARS"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "AMAX"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "ATEC"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "IKARUS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ATAC"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "NHI"
+  },
+  {
+    "types": 23,
+    "manufacturer_code": "ILYUSHIN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "KESTREL (2)"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ASSOCIATED AIR"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ASAP"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "EHI"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "J & AS"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "LUCAS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ACS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "BAKENG"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AIRSPORT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AEROTEK (3)"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "FRONTIER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "NAI"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "WREN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LISA"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "DORNA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "PERFORMANCE"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "PAZMANY"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "CHERNOV"
+  },
+  {
+    "types": 300,
+    "manufacturer_code": "CESSNA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AERO ITBA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "DF HELICOPTERS"
+  },
+  {
+    "types": 10,
+    "manufacturer_code": "AIRBUS HELICOPTERS-KAWASAKI"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "COLONIAL"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ARV"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "ARNET PEREYRA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SKY RAIDER"
+  },
+  {
+    "types": 17,
+    "manufacturer_code": "RILEY"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "NOIN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ARION"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SILVERCRAFT"
+  },
+  {
+    "types": 21,
+    "manufacturer_code": "LEONARDO"
+  },
+  {
+    "types": 11,
+    "manufacturer_code": "AIDC"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "HPA (1)"
+  },
+  {
+    "types": 10,
+    "manufacturer_code": "CULVER"
+  },
+  {
+    "types": 77,
+    "manufacturer_code": "AEROSPATIALE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "HENDERSON"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "FLS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "RENAISSANCE (1)"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AEROPRO"
+  },
+  {
+    "types": 29,
+    "manufacturer_code": "ANTONOV"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "BEL-AIRE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "FD-COMPOSITES"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AASI"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ANGLO NORMANDY"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "GREGA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "CATA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SAAB-FAIRCHILD"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "HUMMEL"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AVIA (2)"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ANGEL"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AERO SPACELINES"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "AMX"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "ADVANCED AIRCRAFT"
+  },
+  {
+    "types": 54,
+    "manufacturer_code": "NORTH AMERICAN ROCKWELL"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "CZAW"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "P&M AVIATION"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ANAHUAC"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "MUSTANG"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AMERICAN AIRCRAFT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ARMSTRONG WHITWORTH"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "ACEAIR"
+  },
+  {
+    "types": 14,
+    "manufacturer_code": "AMD"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "JETCRAFTERS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "GOLDEN CIRCLE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CANADA AIR RV"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "NDN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "DASA"
+  },
+  {
+    "types": 16,
+    "manufacturer_code": "AMERICAN CHAMPION"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "CARLSON"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "STRIPLIN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "STAMPE"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "AMERICAN"
+  },
+  {
+    "types": 17,
+    "manufacturer_code": "BRITTEN-NORMAN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "PAULISTA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AJI"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "REFLEX"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LUNDY"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AMERICAN AFFORDABLE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AIR PRODUCTS"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "SHIJIAZHUANG"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "AEROSAMARA"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "ALPHA AVIATION"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "TAIWAN DANCER"
+  },
+  {
+    "types": 24,
+    "manufacturer_code": "LANCAIR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "KAISER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "BACAU"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "OBERLERCHNER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "HELI-SPORT"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "AVANTAGE"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "ALPAVIA"
+  },
+  {
+    "types": 12,
+    "manufacturer_code": "ALENIA"
+  },
+  {
+    "types": 10,
+    "manufacturer_code": "AIRCRAFT SPRUCE"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "IRMA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "BUL"
+  },
+  {
+    "types": 16,
+    "manufacturer_code": "BEAGLE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LEGER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "QUASAR"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "AKROTECH"
+  },
+  {
+    "types": 13,
+    "manufacturer_code": "BERIEV"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CADCOR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "RUPERT"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "AVIATIKA"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "URBAN"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ANDERSON-GREENWOOD"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "CARRIOU"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "WINGTIP TO WINGTIP"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "BREGUET"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "OGMA"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "AISA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "FREEWING"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "MATRA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AIRNET"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AIRMAX"
+  },
+  {
+    "types": 27,
+    "manufacturer_code": "NORD"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "AEROCAR"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "TRI-R"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "SERV-AERO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AIRLONY"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AIRFRAMES-DAKOTA CUB"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AERITALIA-AERMACCHI"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "AIRDALE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CSS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MINI-IMP"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "MILLER (1)"
+  },
+  {
+    "types": 21,
+    "manufacturer_code": "AVRO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "NATIONAL AERONAUTICS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "HALBERSTADT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "NORTHERN"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "SMITH AVIATION"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "CAARP"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "PANHA"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "EKW"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "EXCLUSIVE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AIR & SPACE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "EAC"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AII"
+  },
+  {
+    "types": 9,
+    "manufacturer_code": "BRDITSCHKA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SEQUOIA"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "NARDI"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "WHITE LIGHTNING"
+  },
+  {
+    "types": 10,
+    "manufacturer_code": "ISSOIRE"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "AERO BOERO"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BINDER (1)"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "HEINTZ"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "ALTURAIR"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AG-CAT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AMERICAN SPORTSCOPTER"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "MERLIN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AEROTEK (2)"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "VOL MEDITERRANI"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "CO-Z"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "AVIAMILANO"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AIRCRAFT INDUSTRIES"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "JAG HELICOPTER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "DATWYLER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AEROLAB"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AAMSA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "WHISPER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "JOHNSON"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "DERRINGER"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "AERO SERVICES"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "KARI-KEEN"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "AEROTEC (1)"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "BARR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ALTAIR COELHO"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "EDGLEY"
+  },
+  {
+    "types": 27,
+    "manufacturer_code": "AEROCOMP"
+  },
+  {
+    "types": 45,
+    "manufacturer_code": "ZENAIR"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "GILES"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "TECH'AERO "
+  },
+  {
+    "types": 17,
+    "manufacturer_code": "PIK"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "NUVENTURE"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "TL ULTRALIGHT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ALPHA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FLIGHT ENGINEERS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AEROSETTE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CELAIR"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "BUETHE"
+  },
+  {
+    "types": 31,
+    "manufacturer_code": "AEROPRAKT"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "BUCKER"
+  },
+  {
+    "types": 16,
+    "manufacturer_code": "BEECHCRAFT"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "FLYER"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "BOEING CANADA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "GOMOLZIG"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "MITCHELL-PROCTER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AEROPLASTIKA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "LAMMER GEYER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SERVOPLANT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SATURN-AVIA"
+  },
+  {
+    "types": 46,
+    "manufacturer_code": "DIAMOND"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BRIAN ALLEN"
+  },
+  {
+    "types": 13,
+    "manufacturer_code": "ATLAS"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "ADAM (1)"
+  },
+  {
+    "types": 65,
+    "manufacturer_code": "SOCATA"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "AIRPLANE FACTORY"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "IKAR"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "WARNER (2)"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TEXTRON AIRLAND"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "CERVA"
+  },
+  {
+    "types": 66,
+    "manufacturer_code": "CHINCUL"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ADVANCED AVIATION"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ALVAREZ"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "NEW CENTURY"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "AERODYNOS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AIL"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "CELIER"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "AEROKOPTER"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "NEW MEYERS"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AERO ADVENTURE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "LOT"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AERO DESIGNS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "GERMAN BIANCO"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AERO-KROS"
+  },
+  {
+    "types": 10,
+    "manufacturer_code": "BRISTOL"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BRANDLI"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AERO-COMPOSITES"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "CREATIVE FLIGHT"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SLICK"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AMERICAN AUTOGYRO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "O'NEILL"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "CABRINHA"
+  },
+  {
+    "types": 74,
+    "manufacturer_code": "AICSA"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "SEABIRD"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "BLUE YONDER"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "INSTYTUT LOTNICTWA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BUCHANAN"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AKAFLIEG DARMSTADT"
+  },
+  {
+    "types": 37,
+    "manufacturer_code": "SCHWEIZER"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ASL"
+  },
+  {
+    "types": 47,
+    "manufacturer_code": "BELLANCA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BARNETT"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "MUDRY"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BITZ"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "THURSTON"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "MARGANSKI"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AEROBRAVO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ADVANCED AEROMARINE"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "IANNOTTA"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "HOWARD (2)"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "DISTAR"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "TAIFUN"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "ADAM (2)"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "SUPER 18"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "ROTORTEC"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "ALEXANDRIA"
+  },
+  {
+    "types": 4,
+    "manufacturer_code": "VOLPAR"
+  },
+  {
+    "types": 20,
+    "manufacturer_code": "ICA"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "C2P"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AIRDROME AEROPLANES"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "BASLER"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "SHANGHAI"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "VOUGHT"
+  },
+  {
+    "types": 21,
+    "manufacturer_code": "AVIONES COLOMBIA"
+  },
+  {
+    "types": 8,
+    "manufacturer_code": "BOISAVIA"
+  },
+  {
+    "types": 7,
+    "manufacturer_code": "LOMBARDI"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AERO ELI"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "HYUNDAI"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "FLYITALIA"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "RAF"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "AD AEROSPACE"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "PARRISH"
+  },
+  {
+    "types": 2,
+    "manufacturer_code": "AEROS"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "SELEX GALILEO"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "APPLEBAY"
+  },
+  {
+    "types": 3,
+    "manufacturer_code": "AAK"
+  },
+  {
+    "types": 5,
+    "manufacturer_code": "CCF"
+  },
+  {
+    "types": 1,
+    "manufacturer_code": "UNIVERSAL COMPOSITE"
+  },
+  {
+    "types": 6,
+    "manufacturer_code": "ROGERSON HILLER"
+  },
+  {
+    "types": 38,
+    "manufacturer_code": "AGUSTAWESTLAND"
+  }
+]
